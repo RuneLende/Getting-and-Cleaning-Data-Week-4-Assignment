@@ -19,7 +19,7 @@ Activity column has 6 types as listed below.
 5. STANDING
 6. LAYING
 
-### For each Subject the tidy data contains rows for:
+### For each Subjectand Activity the tidy data contains rows for:
 1. "activitylabel"
 2. "subject"
 3. "tBodyAcc-mean()-X"          
