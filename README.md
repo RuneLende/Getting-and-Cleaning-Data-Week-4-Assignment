@@ -15,7 +15,7 @@ The variables in the data X are sensor signals measured with waist-mounted smart
 indicates activity type the subjects performed during recording. 
 See http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones for further details.
 
-## Code explination
+## Code explanation
 The code combines training dataset and test dataset, and produces a dataset with the averages of each variable for each activity.
 
 ## Generated dataset
